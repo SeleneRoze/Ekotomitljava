@@ -1,4 +1,4 @@
-package com.ekotomitl.Controller;
+package com.ekotomitl.controller;
 
 import java.util.List;
 
